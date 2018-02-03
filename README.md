@@ -1,7 +1,9 @@
 # mncs
 小组讨论白板
-\
+
 Hello, 我是张泽！
+
+大家好，我是董利军
 
 ## 设置git
 git config --global user.name "你的账号"
