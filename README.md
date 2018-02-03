@@ -1,5 +1,6 @@
 # mncs
 小组讨论白板
+Hi I am Ru Hau
 
 ## 设置git
 git config --global user.name "你的账号"
