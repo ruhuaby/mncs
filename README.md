@@ -5,6 +5,8 @@ Hello, 我是张泽！
 
 大家好，我是董利军
 
+Hi，王安然
+
 ## 设置git
 git config --global user.name "你的账号"
 
