@@ -7,6 +7,8 @@ Hello, 我是张泽！
 
 Hi，王安然
 
+大家好，我是陈强
+
 ## 设置git
 git config --global user.name "你的账号"
 
